@@ -1,0 +1,17 @@
+[
+    {
+        "id": 5,
+        "nome": "Loop Hero",
+        "categoria": "RPG"
+    },
+    {
+        "id": 6,
+        "nome": "9Kings",
+        "categoria": "Tower Defense"
+    },
+    {
+        "id": 1,
+        "nome": "Minecraft",
+        "categoria": "SandBox"
+    }
+]
